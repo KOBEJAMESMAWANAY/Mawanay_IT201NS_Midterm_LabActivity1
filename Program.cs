@@ -11,12 +11,12 @@ namespace Mawanay_IT201NS_Lesson5Activity
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
-        [STAThread]
+        [System.STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPayroll());
+            Application.Run(new frmMainPayroll());
         }
     }
 }
