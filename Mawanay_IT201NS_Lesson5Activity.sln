@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.4.11626.88 stable
+VisualStudioVersion = 18.4.11626.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mawanay_IT201NS_Lesson5Activity", "Mawanay_IT201NS_Lesson5Activity.csproj", "{05BB3D2B-1A06-42FF-A23F-54BCFFB31157}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mawanay_IT201NS_Midterm_LabActivity1", "Mawanay_IT201NS_Midterm_LabActivity1.csproj", "{05BB3D2B-1A06-42FF-A23F-54BCFFB31157}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
